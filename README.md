@@ -12,9 +12,9 @@ Run the following within the `dcd_stdLib` directory.
 make
 ```
 
-This will generate a static library file *lib_dcd_stdLib.a* in the current directory.
+This will generate a static library file *lib_dcd_stdLib.a* within the `dcd_stdLib` directory.
 
-Note that object (*".o"*) and dependency (*".d"*) files are generated within the `src` directory, but these can be removed following [Clean](#Clean).
+Note that object (*".o"*) and dependency (*".d"*) files are generated within the `src` directory, but these can be removed following [Clean](#clean).
 
 <br />
 
